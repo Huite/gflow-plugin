@@ -1,4 +1,7 @@
 # gflow-plugin
+
+NOTE: This repository has been moved to: https://github.com/GFLOW-ORG/gflow-qgis-plugin
+
 QGIS plugin for the GFLOW analytic element program
 
 ## Installing
